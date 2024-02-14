@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown <username> <file_path>
+chown betty hello
